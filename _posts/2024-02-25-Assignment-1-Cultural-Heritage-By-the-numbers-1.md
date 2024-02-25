@@ -51,5 +51,7 @@ Through the barchart, we are able to see the trends of the years where the museu
 Citations:
 https://www.christies.com/en/lot/lot-5416450 
 
+Ready for grading
+
 	
 
