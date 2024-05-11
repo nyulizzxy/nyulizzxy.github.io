@@ -92,11 +92,11 @@ In addition, due to our selection of one page only, and the document being print
 
 This project also exposed many of the limitations of both OCR in correctly identifying text and also with Geocoding with correctly providing locational data. 
 
-Throughout the process of completing this assignment, we realized that we should’ve, and wanted to explore the realms of New York University in Brooklyn more. As we are both students of New York University (Abu Dhabi) and the data was in the 1880s, we were curious to see if we could have found any information on New York University New York because it was founded in **1831**. 
+Throughout the process of completing this assignment, we realized that we should’ve, and wanted to explore the realms of New York University in Brooklyn more. As we are both students of New York University *(Abu Dhabi)* and will both be going on a study away in New York, we were curious if we could have found any information on NYU New York because it was founded in **1831**. 
 
-Given *our NYU status* and the fact that we will both be going on a study away in New York, specifically Brooklyn, New York, for to attend NYU Tandon, we *wish* we could have explored the residential and business directory listings to see if anything from NYU could be found for our assignment, *assuming* that it started flourishing a lot more by 1880. 
+NYU Tandon, the Brooklyn location, in specific, was founded in **1854**, so its data would have still worked if we had thought about it sooner before we did the majority of our assignment. We think that would have been a very interesting approach to this assignment, where we get to learn more about spatial data and visualizing that data, all while **learning more** about our sister school from way back in the 1880s.
 
-NYU Tandon in specific was founded in **1854**, so its data would have still worked if we had thought about it sooner before we did the majority of our assignment. We think that would have been a very interesting approach to this assignment, where we get to learn more about spatial data and visualizing that data, all while **learning more** about our sister school from way back in the 1880s.
+##Future Approach
 
 For **future** assignments relating to spatial data visualization, we hope to expand the dataset to include more than just a few years in one borough. 
 
