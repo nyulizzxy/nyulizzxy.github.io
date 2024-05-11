@@ -96,7 +96,7 @@ Throughout the process of completing this assignment, we realized that we should
 
 NYU Tandon, the Brooklyn location, in specific, was founded in **1854**, so its data would have still worked if we had thought about it sooner before we did the majority of our assignment. We think that would have been a very interesting approach to this assignment, where we get to learn more about spatial data and visualizing that data, all while **learning more** about our sister school from way back in the 1880s.
 
-##Future Approach
+## Future Approach
 
 For **future** assignments relating to spatial data visualization, we hope to expand the dataset to include more than just a few years in one borough. 
 
