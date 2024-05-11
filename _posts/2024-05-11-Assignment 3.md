@@ -15,8 +15,11 @@ toc_sticky: true
 For this assignment on Spatial Data, we have chosen to explore the source of **[The Brooklyn City and Business Directory 1879-80](https://archive.org/details/1880BPL/page/n21/mode/2up)**. This historical data set is a directory to businesses, government agencies, public services, and residencies in Brooklyn, New York, USA in the years 1879-1880. The source includes, in this order:
 
 **-The name of the business or business owner**
+
 **-The occupation**
+
 **-The address of the business**
+
 
 This provides us with a unique shot of Brooklyn in the late 19th century, where we could observe the urban development of late 19th century Brooklyn to the early 21st century Brooklyn that we will see through visualizing our data using Kepler.gl and eventually, through our own eyes once we fly to the New York campuses of New York University when we are on our study aways.
 
