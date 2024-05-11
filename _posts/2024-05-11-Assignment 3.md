@@ -29,6 +29,7 @@ Linus’s background is from *California*, so it would be interesting for him to
 ## **Data Collection**
 
 Our data collection process began with the selection of 2 random pages, **221-222**, where we then copied the words of the entire page, and created a csv file of the data using chatgpt.Attached below is the page we have selected. 
+
 ![Directory](/assets/images/Directory.png)
 
  We were able to manually copy and paste from the page onto chatGPT because there was an OCR layer already applied on to the source. The prompt we provided chatGPT with was: **“Make a CSV file with and only using the above data with 50 rows.”** 
@@ -50,6 +51,7 @@ We are unsure whether the remaining 15 were a result of Geocode not being able t
 Using **[kepler.gl](https://kepler.gl)**, a powerful web- based app that helps with visualizing geolocation data, we were able to provide a **visualized map** from the CSV.
 
 Due to the nature of the data, there were no repeats and meaningful grouping of the data. Most of the occupations were different and grouping by name doesn’t really provide much insight. It did however, provide spatial information of the business distributions in Brooklyn during this time.
+
 ![Brooklynkepler](/assets/images/brooklynkepler.png)
 
 A few of the data points created when placed on the map led me to discover several points that were far from Brooklyn. Upon further investigation on these points, we discovered that these mistakes were due to the names of the addresses **having the same names** as major cities within other states and areas. 
@@ -57,6 +59,7 @@ A few of the data points created when placed on the map led me to discover sever
 For example, the dot on California had the name **‘Oakland’** in its name and the one in Georgia had **‘Macon’**, *both* major cities of these respective states. 
 
 Therefore, these mistaken points were caused by the geocoding process, incorrectly interpreting the addresses. 
+
 ![USAkepler](/assets/images/USAkepler.png)
 
 ## Possible Applications
@@ -64,6 +67,7 @@ Therefore, these mistaken points were caused by the geocoding process, incorrect
 A part of this assignment journey that we found the most intriguing was **tracing the historical evolution** of the city. 
 
 As the Geocode generated specific locational data via longitude and latitude, we were able to search up the location described in one of the columns on google maps. We searched up what was **originally** the location of a *carpenter* in the 1880s, and found out it is **now** a *Child Development support corporation*. 
+
 ![Carpenternow](/assets/images/carpenternow.png)
 
 
