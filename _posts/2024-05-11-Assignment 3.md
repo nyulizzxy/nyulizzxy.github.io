@@ -53,7 +53,7 @@ We are unsure whether the remaining 15 were a result of Geocode not being able t
 
 Using **[kepler.gl](https://kepler.gl)**, a powerful web- based app that helps with visualizing geolocation data, we were able to provide a **visualized map** from the CSV.
 
-Due to the nature of the data, there were no repeats and meaningful grouping of the data. Most of the occupations were different and grouping by name doesn’t really provide much insight. It did however, provide spatial information of the business distributions in Brooklyn during this time.
+Due to the nature of the data, there were **no repeats and meaningful grouping** of the data. Most of the occupations were different and grouping by name doesn’t really provide much insight. It *did* however, provide spatial information of the business distributions in Brooklyn during this time.
 
 ![Brooklynkepler](/assets/images/brooklynkepler.png)
 
@@ -82,29 +82,29 @@ This usage of geocode and mapping the locations from the past is an interesting 
 
 ## Conclusion
 
-Overall, this project not only enhanced our understanding and experience with spatial data visualization, but also *introduced us* to another idea of visualizing datasets, particularly on a map, while also understanding the urban development of a city we are both not familiar with. 
+Overall, this project not only enhanced our understanding and experience with spatial data visualization, but also *introduced us* to **another idea** of visualizing datasets, particularly on a map, while also understanding the urban development of a city we are both not familiar with. 
 
-In our previous assignment, we were able to better visualize our data using word clouds, but with this assignment, we visualized the data even more, creating maps where we were able to see the clear area of where such businesses stood. 
+In our previous assignment, we were able to better visualize our data using **word clouds**, but with this assignment, we visualized the data *even more*, creating maps where we were able to see the **clear area** of where such businesses stood. 
 
-With a larger data set, we may be able even more clearly identigy hotspots for businesses and perhaps even hotspots for specific businesses. This was *not* possible on the size of data we analyzed due to the lack of repeating businesses. 
+With a larger data set, we may be able even more clearly identigy hotspots for businesses and perhaps even hotspots for specific businesses. This was **not** possible on the size of data we analyzed due to the lack of repeating businesses. 
 
-In addition, due to our selection of one page only, and the document being printed in alphabetical order, there were *not* many conclusions we could draw based on the names of the business owners. 
+In addition, due to our selection of one page only, and the document being printed in alphabetical order, there were **not** many conclusions we could draw based on the names of the business owners. 
 
 This project also exposed many of the limitations of both OCR in correctly identifying text and also with Geocoding with correctly providing locational data. 
 
 Throughout the process of completing this assignment, we realized that we should’ve, and wanted to explore the realms of New York University in Brooklyn more. As we are both students of New York University (Abu Dhabi) and the data was in the 1880s, we were curious to see if we could have found any information on New York University New York because it was founded in **1831**. 
 
-Given *our NYU status* and the fact that we will both be going on a study away in New York, specifically Brooklyn, New York, for to attend NYU Tandon, we wish we could have explored the residential and business directory listings to see if anything from NYU could be found for our assignment, assuming that it started flourishing a lot more by 1880. 
+Given *our NYU status* and the fact that we will both be going on a study away in New York, specifically Brooklyn, New York, for to attend NYU Tandon, we *wish* we could have explored the residential and business directory listings to see if anything from NYU could be found for our assignment, *assuming* that it started flourishing a lot more by 1880. 
 
-NYU Tandon in specific was founded in **1854**, so its data would have still worked if we had thought about it sooner before we did the majority of our assignment. We think that would have been a very interesting approach to this assignment, where we get to learn more about spatial data and visualizing that data, all while learning more about our sister school from way back in the 1880s.
+NYU Tandon in specific was founded in **1854**, so its data would have still worked if we had thought about it sooner before we did the majority of our assignment. We think that would have been a very interesting approach to this assignment, where we get to learn more about spatial data and visualizing that data, all while **learning more** about our sister school from way back in the 1880s.
 
 For **future** assignments relating to spatial data visualization, we hope to expand the dataset to include more than just a few years in one borough. 
 
 It could end up being a lot more interesting if we expanded to a decade in all of New York City, as each borough has its **own characteristics** in *population, population density, diversity, types of community, etc.* 
 
-We would also want to incorporate the data that we will be learning from with data that we might already know or are familiar with, to add an even more interesting layer to our data and research. In this case, it would have been cool to work with NYU Tandon, but maybe in the future, we could expand to Manhattan as well, and then compare all of NYU New York’s undergraduate and graduate schools to compare and contrast. 
+We would also want to incorporate the data that we will be learning from with data that we might already know or are familiar with, to add *another* **interesting layer** to our data and research. In this case, it would have been cool to work with NYU Tandon, but maybe in the future, we could expand to Manhattan as well, and then compare all of NYU New York’s undergraduate and graduate schools to compare and contrast. 
 
-We could also expand the years so we could see what was built *(if anything at all)* before the NYU buildings and see how it compares to now. We could even just see how much the buildings themselves might have developed over the years from any reason ranging from development to destruction due to natural causes.
+We could also expand the years so we could see what was built ***(if anything at all)*** before the NYU buildings and see how it compares to now. We could even just see how much the buildings themselves might have developed over the years from any reason ranging from development to destruction due to natural causes.
 
 
 
